@@ -1,1 +1,2 @@
-console.log("Iniciando js")
+import "./formulario";
+import "./lineaPasos";
