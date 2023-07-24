@@ -14,9 +14,7 @@
   <a href="#capturas-de-pantalla">Capturas de pantalla</a> •
   <a href="#instalación">Instalación</a> •
   <a href="#tecnologías-utilizadas">Tecnologías utilizadas</a> •
-  <a href="#contribución">Contribución</a> •
   <a href="#autor">Autor</a> •
-  <a href="#licencia">Licencia</a>
 </p>
 
 ## Características principales
