@@ -74,7 +74,7 @@ shell
 Copy code
 git push origin nueva-caracteristica
 Envía una solicitud de pull (pull request) a este repositorio principal.
-
+```
 ## Autor
 
 Lopez Alvaro Mauricio
