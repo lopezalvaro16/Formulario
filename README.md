@@ -32,49 +32,19 @@
 ![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/58ac030d-e682-43b8-a1e5-6c32532c4d2e)
 ![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/d2e3f547-26aa-44a1-be5a-07314fe9bf04)
 
-
-
+## Instalación
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
+1. Clona este repositorio en tu máquina local: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+2. Navega hasta el directorio del proyecto: `cd tu-repositorio`
+3. Instala las dependencias necesarias: `npm install`
+4. Inicia el servidor de desarrollo: `npm start`
+5. Abre tu navegador y accede a [http://localhost:3000](http://localhost:3000) para ver la aplicación.
 
-```shell
-git clone https://github.com/tu-usuario/tu-repositorio.git
-Navega hasta el directorio del proyecto:
-shell
-Copy code
-cd tu-repositorio
-Instala las dependencias necesarias:
-shell
-Copy code
-npm install
-Inicia el servidor de desarrollo:
-shell
-Copy code
-npm start
-Abre tu navegador y accede a http://localhost:3000 para ver la aplicación.
-Tecnologías utilizadas
-Frontend: HTML5, CSS3, JavaScript (React.js)
-Backend: (Menciona aquí las tecnologías y frameworks utilizados en tu backend, si los tienes.)
-Contribución
-Si deseas contribuir a este proyecto, sigue los pasos a continuación:
+## Tecnologías utilizadas
 
-Haz un fork de este repositorio.
-Crea una rama con la nueva característica:
-shell
-Copy code
-git checkout -b nueva-caracteristica
-Realiza los cambios necesarios y realiza commits:
-shell
-Copy code
-git commit -am 'Agrega una nueva característica'
-Envía los cambios a tu repositorio remoto:
-shell
-Copy code
-git push origin nueva-caracteristica
-Envía una solicitud de pull (pull request) a este repositorio principal.
-```
+- Frontend: HTML5, CSS3, JavaScript.
 ## Autor
 
 Lopez Alvaro Mauricio
