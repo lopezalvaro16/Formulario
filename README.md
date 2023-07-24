@@ -19,8 +19,6 @@
   <a href="#licencia">Licencia</a>
 </p>
 
-![Demo del Formulario de Validación para Transferencias Bancarias](./demo.png)
-
 ## Características principales
 
 - **Formulario de Transferencias:** Proporciona un formulario intuitivo para que los usuarios ingresen los detalles de la transferencia, incluyendo la cantidad, la cuenta de origen y la cuenta de destino.
