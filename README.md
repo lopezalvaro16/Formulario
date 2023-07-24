@@ -24,11 +24,17 @@
 - **Confirmación y Autorización:** Solicita una confirmación antes de finalizar la transferencia y, en caso necesario, la autorización adicional para ciertas transacciones de alto valor o riesgo.
 
 ## Capturas de pantalla
-![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/ffcef223-344b-495e-b982-4215c6ae4e58)
-![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/da7b6554-a244-4a22-b9de-8132138e31dc)
-![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/aa6c4f04-9cfe-4d0f-bd3d-cf20cda94252)
-![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/58ac030d-e682-43b8-a1e5-6c32532c4d2e)
-![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/d2e3f547-26aa-44a1-be5a-07314fe9bf04)
+![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/0787469f-c80a-4040-96de-ff3b8783a0de)
+
+![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/d34ea28e-f97a-4c6c-8103-6bb77a8bc58a)
+
+![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/2049b6b5-7942-4ff2-911d-aa8d49c5a955)
+
+![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/76010099-44d4-46ad-85b4-d6f03087b674)
+![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/63f77819-8f7e-4346-978c-0eeef5f7ace9)
+![image](https://github.com/lopezalvaro16/Formulario/assets/68611480/8427e86a-4176-4f5d-8e7b-d9e57488cb50)
+
+
 
 ## Instalación
 
