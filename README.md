@@ -75,6 +75,6 @@ Copy code
 git push origin nueva-caracteristica
 Envía una solicitud de pull (pull request) a este repositorio principal.
 Autor
-Tu nombre
+Lopez Alvaro Mauricio
 
-Enlace al perfil de GitHub: tu-usuario
+Enlace al perfil de GitHub: https://github.com/lopezalvaro16
